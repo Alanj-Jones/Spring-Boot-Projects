@@ -17,4 +17,5 @@ public class MailSendService {
         sMessage.setText("Hola soy spam");
         javaMailSender.send(sMessage);
     }    
+    
 }
