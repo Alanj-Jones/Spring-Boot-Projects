@@ -9,5 +9,5 @@ class MailSpammerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+ 
 }
